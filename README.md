@@ -1,1 +1,7 @@
 # PracticaEquipo
+
+
+
+# Partes : 
+Pablo :
+Julio :
