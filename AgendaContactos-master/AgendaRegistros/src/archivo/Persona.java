@@ -11,7 +11,11 @@ public class Persona {
         this.telefono = telefono;
     }
 
-    public String getNombre() {
+    public Persona(String nombre2) {
+		this.nombre=nombre2;
+	}
+
+	public String getNombre() {
         return nombre;
     }
 

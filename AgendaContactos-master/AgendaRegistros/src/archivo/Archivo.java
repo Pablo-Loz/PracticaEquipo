@@ -17,6 +17,9 @@ public class Archivo {
         }
       }
       
+      
+      
+      
       public void escribirEnArchivo(Persona persona){
            try{
                 FileWriter escritura = new FileWriter(archivo, true);
@@ -26,5 +29,10 @@ public class Archivo {
                System.out.println(e);
            }
       }
+      
+      
+ 
+
+	
       
 }
